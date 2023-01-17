@@ -1,4 +1,4 @@
-# Welcomw to my Personal Website! 
+# Welcome to my Personal Website! 
 
 Indeera's Personal Website Link: https://indeerasaha.github.io/Personal-Website/
 
